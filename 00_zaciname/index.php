@@ -6,6 +6,7 @@
     <title>00 začíname</title>
 </head>
 <body>
+<h1>Adrian Beseda</h1>
 
 <h1>git config --global user.name "tvojemeno"</h1>
 <h1>git config --global user.email "tvoj@email.hu"</h1>
